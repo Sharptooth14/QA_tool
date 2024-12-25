@@ -111,11 +111,11 @@ response = rag_chain.invoke({"input": query, "context": context_str})
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Sharptooth14/QA_tool/blob/main/Screenshot%202024-12-25%20220328.png)
+![App Screenshot](https://github.com/Sharptooth14/QA_tool/blob/main/Screenshot%202024-12-25%20220447.png)
 
 ![App Screenshot](https://github.com/Sharptooth14/QA_tool/blob/main/Screenshot%202024-12-25%20220328.png)
 
-![App Screenshot](https://github.com/Sharptooth14/QA_tool/blob/main/Screenshot%202024-12-25%20220328.png)
+![App Screenshot](https://github.com/Sharptooth14/QA_tool/blob/main/Screenshot%202024-12-25%20220344.png)
 
 
 ## Future Improvements
